@@ -1,0 +1,6 @@
+{
+  "name": "RejaKun - Kundalik Vazifalar Rejalashtiruvchisi",
+  "description": "Kundalik vazifalar, vaqt chizig'i, odatlar va Pomodoro fokus taymeriga ega zamonaviy mobil rejalashtirish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
